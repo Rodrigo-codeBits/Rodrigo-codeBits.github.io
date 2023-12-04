@@ -3,7 +3,7 @@
     margin-left:5px;
 }
 
-#pi{margin: 3px 3px 3px 3px;}
+.pi{margin: 3px 3px 3px 3px;}
 h1{text-align: center-left; display:inline; font-size:95%;}
 /*h1:hover{text-decoration: underline;}*/
 .cont{display:flex; align-items:center;/*margin-rigth:100%*/margin-right:50%;}
