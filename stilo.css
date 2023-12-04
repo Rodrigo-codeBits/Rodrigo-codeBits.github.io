@@ -4,7 +4,7 @@
 }
 
 #pi{margin: 3px 3px 3px 3px;}
-h1{text-align: center-left; display:inline; font-size:125%;}
+h1{text-align: center-left; display:inline; font-size:95%;}
 /*h1:hover{text-decoration: underline;}*/
 .cont{display:flex; align-items:center;/*margin-rigth:100%*/margin-right:50%;}
 .d1{border:1px solid black; box-shadow: 3px 2px 5px black;}
