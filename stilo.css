@@ -6,7 +6,7 @@
 #pi{margin: 3px 3px 3px 3px;}
 h1{text-align: center-left; display:inline; font-size:150%;}
 /*h1:hover{text-decoration: underline;}*/
-.cont{display:flex; align-items:center;margin-rigth:50%;margin-left:50%;}
+.cont{display:flex; align-items:center;margin-rigth:100%;margin-left:50%;}
 .d1{border:1px solid black; box-shadow: 3px 2px 5px black;}
 .d2{margin-left:35%;}
 .p1:hover{text-decoration: underline;}
