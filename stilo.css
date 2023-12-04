@@ -4,7 +4,7 @@
 }
 h1{text-align: center; display:inline; font-size:150%;}
 /*h1:hover{text-decoration: underline;}*/
-
+.cont{display:flex; align-items:center;}
 .d1{border:1px solid black; box-shadow: 3px 2px 5px black;}
 .d2{margin-left:35%;}
 .p1:hover{text-decoration: underline;}
